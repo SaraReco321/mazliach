@@ -22,4 +22,5 @@ width: 200px;
 
 button{ width: 200px;
 border-radius: 30px;
-background-color: hsl(160, 100%, 50%);}
+background-color: hsl(160, 100%, 50%);
+font-size: 20px;}
