@@ -18,3 +18,8 @@ border: 1px solid rgb(0, 80, 31);
 width: 200px;
 
 }
+
+
+button{ width: 200px;
+border-radius: 30px;
+background-color: hsl(160, 100%, 50%);}
