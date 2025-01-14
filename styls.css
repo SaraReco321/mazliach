@@ -1,0 +1,20 @@
+h1{
+    font-size: 60px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+body{
+
+background-color: rgba(0, 255, 115, 0.438) ;
+
+}
+
+
+input
+{
+
+   border-radius: 15px;
+border: 1px solid rgb(0, 80, 31);
+width: 200px;
+
+}
